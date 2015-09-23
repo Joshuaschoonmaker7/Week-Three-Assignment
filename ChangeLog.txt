@@ -1,0 +1,8 @@
+# Author - Joshua Schoonmaker
+# StarWarsName.py
+# CIS 125 IWU
+# Week 3 Assignment Changelog
+
+Added Star Wars Name assignment
+
+Added Pig Latin Words Assignment
